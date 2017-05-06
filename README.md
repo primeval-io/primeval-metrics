@@ -1,4 +1,4 @@
-# primeval-metrics [![Build Status](https://travis-ci.org/primeval-io/primeval-metrics.svg?branch=master)](https://travis-ci.org/primeval-io/primeval-metrics)
+# primeval-metrics [![Build Status](https://travis-ci.org/primeval-io/primeval-metrics.svg?branch=master)](https://travis-ci.org/primeval-io/primeval-metrics) [![Gitter primeval-io/Lobby](https://badges.gitter.im/primeval-io/Lobby.svg)](https://gitter.im/primeval-io/Lobby)
 
 Primeval Metrics wraps [Dropwizard Metrics](https://github.com/dropwizard/metrics) into an OSGi service.
 
